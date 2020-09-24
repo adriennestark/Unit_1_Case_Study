@@ -35,7 +35,7 @@ Ellevest Case Study
 
 ## Recommendations
 
-* If you were to advise the company, what products or services would you suggest they offer? (This could be something that a competitor offers, or use your imagination!) If I were consulting with Ellevest, I would suggest that they offer a debt ranking to help its clients make smart decisions about paying off their debt while creating a game-like system to motivate clients on their financial journey.
+* If you were to advise the company, what products or services would you suggest they offer? (This could be something that a competitor offers, or use your imagination!) If I were consulting with Ellevest, I would suggest that they offer a debt ranking to help its clients make smart decisions about paying off their debt while creating a game-like system to motivate clients on their financial journey. I would also suggest that they consider going into the insurance business to deepen their saturation into their clients' financial lives. 
 
 * Why do you think that offering this product or service would benefit the company? This service would not only encourage Ellevest's client, but could also benefit Ellevest's bottom line through driving its clients to free-up cashflow that could then be invested into its managed account platform.
 

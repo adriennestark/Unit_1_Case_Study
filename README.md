@@ -5,10 +5,11 @@ Ellevest Case Study
 
 ## Origin and Overview
 
-- Ellevest
-- Founded in 2014 by Sallie Krawcheck and Charlie Kroll
-- Sallie Krawcheck was inspired to start a wealth-management company with women investors as its focus as she realized that women were not being optimally served by the existing wealth management firms that had been founded by men with men in mind.
-- Ellevest has had three rounds of funding raising a total of $77.6MM (source: crunchbase.com)
+- Name of company: Ellevest
+- When was the company incorporated? Founded in 2014 
+- Who are the founders of te company? Sallie Krawcheck and Charlie Kroll
+- How did the idea for the company come about? Sallie Krawcheck was inspired to start a wealth-management company with women investors as its focus as she realized that women were not being optimally served by the existing wealth management firms that had been founded by men with men in mind. (source: https://support.ellevest.com/hc/en-us/articles/360016869254-How-was-Ellevest-started-)
+- How is the company funded? How much funding have they received? Ellevest has had three rounds of funding raising a total of $77.6MM (source: https://www.crunchbase.com/organization/ellevest/company_financials)
 
 ## Business Activities
  - What specific financial problem is the company trying to solve? Ellvest is committing to closing the gender wealth gap. In the United States, for every $1 of wealth owned by men, women own $.32 and this gap is exacerbated for Black and Latinx women. (source: https://hbr.org/2019/10/closing-the-gender-wealth-gap)
@@ -19,14 +20,14 @@ Ellevest Case Study
 
 * What domain of the financial industry is the company in? Wealth Management
 
-* What have been the major trends and innovations of this domain over the last 5-10 years? There has been a race to the bottom with cost in the broader wealth management industry. Automation through robo advisors has driven the cost for wrap accounts down which has been a wine for consumers and democratized the managed accounts for broader consumership. There has also been a move towards passive management (index funds) versus more actively managed funds (taking bets on specific companies or sectors)
+* What have been the major trends and innovations of this domain over the last 5-10 years? There has been a race to the bottom with cost in the broader wealth management industry. Automation through robo advisors has driven the cost for wrap accounts down which has been a win for consumers and democratized the managed accounts for broader consumership. There has also been a move towards passive management (index funds) versus more actively managed funds (taking bets on specific companies or sectors)
 
 * What are the other major companies in this domain? Ellevest has a unique offering as far as its membership model, but its main competitors in the robo space can be split into two categories: start-up robo companies and legacy wealth-management companies that have built a robo advisor. The start-up category includes Betterment and Wealthfront. The latter category includes Fidelity's FidelityGo, Vanguard's Digital Advisor and Merrill Lynch's Merrill Edge.
 
 
 ## Results
 
-* What has been the business impact of this company so far?
+* What has been the business impact of this company so far? 
 
 * What are some of the core metrics that companies in this domain use to measure success? How is your company performing, based on these metrics?
 
